@@ -72,7 +72,7 @@ class Order{
         System.out.println("pay rs : " + total );
         System.out.println("Thanks for the purchase"  );
 
-
+//addig 1lie
 
 
     }
